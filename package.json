@@ -1,0 +1,29 @@
+{
+  "name": "react-redux-boilerplate-generator",
+  "version": "1.0.0",
+  "description": "TiagoCornalo React Redux Typescript boilerplate generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoCornalo/react-redux-boilerplate-generator.git"
+  },
+  "author": "TiagoCornalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiagoCornalo/react-redux-boilerplate-generator/issues"
+  },
+  "homepage": "https://github.com/TiagoCornalo/react-redux-boilerplate-generator#readme",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "@typescript-eslint/eslint-plugin": "^5.59.8",
+    "eslint": "^8.42.0",
+    "eslint-config-standard-with-typescript": "^35.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^5.1.3"
+  }
+}
